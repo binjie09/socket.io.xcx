@@ -1,4 +1,6 @@
-# 微信小程序版 socket.io和engine.io
+# 微信小程序版 socket.io-client 2.2.0
+
+为了在小程序上使用botpress适配botpress的socket.io 2.2.0版本
 
 可以使用在微信小程序中的socket.io和engine.io
 
